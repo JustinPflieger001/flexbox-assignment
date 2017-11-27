@@ -1,0 +1,55 @@
+﻿* The solution to collaborating on code
+* Izza checkpoint 
+* Used to:
+   * Modify 
+   * Break
+   * Change
+   * Improvise
+* Collaboration tool allowing people to work on parts of the same project at the same time
+   * Protects you and others, form you and others
+* The local workflow
+   * Can still work on code offline
+* Git init
+   * Creates a repository in the folder selected
+   * Where checkpoint will be stored
+* 3 main states
+   * Modified
+      * Files modified and not yet saved
+   * Staged
+      * Current version of a file tagged to be in the next commit
+   * Committed
+      * Saved file
+* Pronounced-Jit
+* Outcomes
+   * Setup a Remote repository
+   * Learn how to push our local files to the remote servers
+* Remote Repository
+   * Copy of project stored “in the cloud”
+   * Where backups are stored
+   * Where sharing is located
+   * Accessible near internet
+* Git push uploads changes
+   * Does not need to be done after every commit,
+      * Uploads all commits since last push
+* Working with branches
+   * Represents different versions of code
+   * Allows working on code fixes and features w/o breaking what is working
+   * Fixes should always start on a branch
+   * Master branch is the “Trunk” containing clean code ready for deployment/web use
+   * Git branch <name>
+      * Tells git to maintain a new copy of code
+   * Git branch
+   * Git checkout <branch>
+      * Tells git to switch working folder with specified branch
+   * Merge is used to merge the master branch with the new branch
+* Merge conflict
+   * Happens when a file has changed in both branches you are trying to combine and can’t determine what to keep
+   * Git is asking for help
+
+
+
+
+1. Git is a command prompt based way to backup files and collaborate. Git is an effective collaboration tool that can be used to save data and to stop file corruption. Many coding programs do not have a way to collaborate easily and effectively, allowing git to support people in this endeavor.
+2. I believe I am a 3 on a scale of 1-4  because nothing can be understood fully or at max capacity, many gut skills will also be learnt through time and experience. Currently I have a good understanding of Remote Repos, Branches, And Merging.
+3. There are no questions I didn’t want to ask aloud, because i don’t care how people view me.
+4. Food
