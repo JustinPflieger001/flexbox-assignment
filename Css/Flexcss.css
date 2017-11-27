@@ -1,0 +1,67 @@
+* {
+    color: white;
+}
+
+[class^="box"] {
+    text-align: center;
+    height: 24.2%;
+}
+
+.flexdaddy {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+    height: 100vh;
+}
+
+.box1 {
+    background-color: black;
+    width: 99%;
+}
+
+.box2 {
+    background-color: black;
+    width: 49%;
+}
+
+.box3 {
+    background-color: black;
+    width: 49%;
+}
+
+.box4 {
+    background-color: black;
+    width: 24%;
+}
+
+.box5 {
+    background-color: black;
+    width: 24%;
+}
+
+.box6 {
+    background-color: black;
+    width: 24%;
+}
+
+.box7 {
+    background-color: black;
+    width: 24%;
+}
+
+.box8 {
+    background-color: black;
+    width: 32.333333333333333333333333333333333333333333%;
+}
+
+.box9 {
+    background-color: black;
+    width: 32.333333333333333333333333333333333333333333%;
+}
+
+.box10 {
+    background-color: black;
+    width: 31.333333333333333333333333333333333333333333%;
+}
